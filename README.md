@@ -22,4 +22,12 @@ https://github.com/kubernetes/community/blob/master/contributors/devel/sig-archi
 
 https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api_changes.md
 
+## cluster maintanance ##
+https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster
+
+https://github.com/etcd-io/etcd/blob/master/Documentation/op-guide/recovery.md
+
+
+https://www.youtube.com/watch?v=qRPNuT080Hk
+
 
